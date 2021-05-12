@@ -2,6 +2,8 @@
 
 <h1>Hi! I'm Chloe, a software development student in the Seattle area!</h1>
 
+<img src="img/aboutme-img.JPG" border="2px #ffffff solid" height="250px" align="right">
+
 🟡 &nbsp;My pronouns are  **she** / **her** or **they** / **them**
 
 🟡 &nbsp;I'm a student at <a href="https://www.epicodus.com/">**Epicodus**!</a>
@@ -16,7 +18,7 @@
 
 🟡 &nbsp;Find me on <a href="https://www.linkedin.com/in/chloeloveall/">**LinkedIn**!</a>
 
-🟡 &nbsp;Ask me about houseplants, tattoos, and baby goats.
+🟡 &nbsp;Ask me about houseplants, tattoos, and baby goats... did I mention houseplants?
 
 
 #
