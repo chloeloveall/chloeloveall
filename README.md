@@ -1,6 +1,8 @@
 <img src="img/github-header.png">
 
-<h1>Hi! I'm Chloe, a software engineering student in the Seattle area!</h1>
+<h1>Hi! I'm Chloe, a software development student in the Seattle area!</h1>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dmoyadev&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=FF6C00&text_color=000000&icon_color=FF6C00&locale=" align="right">
 
 🟡 &nbsp;My pronouns are  **she** / **her** or **they** / **them**
 
@@ -17,6 +19,7 @@
 🟡 &nbsp;Find me on <a href="https://www.linkedin.com/in/chloeloveall/">**LinkedIn**!</a>
 
 🟡 &nbsp;Ask me about houseplants, tattoos, and baby goats.
+
 
 #
 
