@@ -6,7 +6,7 @@
 
 🟡 &nbsp;My pronouns are  **she** / **her** or **they** / **them**
 
-🟡 &nbsp;I'm a student at <a href="https://www.epicodus.com/">**Epicodus**!</a>
+🟡 &nbsp;I'm an intern at <a href="https://www.hubb.me/">**Hubb**!</a>
 
 🟡 &nbsp;I'm looking for help with **Algorithms & Data Structures**.
 
@@ -14,11 +14,11 @@
 
 🟡 &nbsp;I'm currently learning **React**, **React Native** and **Sass**.
 
-🟡 &nbsp;Email me at <a href="mailto:emjose@gmail.com">chloeloveall@protonmail.com</a>
+🟡 &nbsp;Email me at <a href="mailto:chloeloveall@protonmail.com">chloeloveall@protonmail.com</a>
 
 🟡 &nbsp;Find me on <a href="https://www.linkedin.com/in/chloeloveall/">**LinkedIn**!</a>
 
-🟡 &nbsp;Ask me about houseplants, tattoos, and baby goats... did I mention houseplants?
+🟡 &nbsp;Ask me about plants, tattoos, and baby goats... did I mention plants?
 
 
 #
