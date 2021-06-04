@@ -40,6 +40,10 @@
 
 <h2>#100daysofcode</h2>
 
-<a href="https://let-it-snow.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://quotable-generator.vercel.app/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://tipped-neon.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 03-FFF952?style=for-the-badge&logo=day" height=30 width=79/>
+<a href="https://let-it-snow.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://quotable-generator.vercel.app/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://tipped-neon.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 03-FFF952?style=for-the-badge&logo=day" height=30 width=79/> 
 
+<br />
+<br />
 <a href="https://github.com/chloeloveall/100daysofcode/"><img alt="Repo Navigation" src="https://img.shields.io/badge/-100 Repo Navigation-FFF952?style=for-the-badge&logo=day" height=30 width=162/> 
+
+#
