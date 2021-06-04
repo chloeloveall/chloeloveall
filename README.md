@@ -8,11 +8,13 @@
 
 🟡 &nbsp;I'm an intern at <a href="https://www.hubb.me/">**Hubb**!</a>
 
+🟡 &nbsp;I'm a design team volunteer with <a href="https://www.pdxwit.org">**PDX WIT**!</a>
+
 🟡 &nbsp;I'm looking for help with **Algorithms & Data Structures**.
 
-🟡 &nbsp;I'm currently working on <a href="https://www.github.com/chloeloveall/flora">**my capstone**!</a>
+🟡 &nbsp;I'm currently working on <a href="https://www.github.com/chloeloveall/100daysofcode">**#100daysofcode**!</a>
 
-🟡 &nbsp;I'm currently learning **React**, **React Native** and **Sass**.
+🟡 &nbsp;I'm currently learning **Angular** and **TypeScript**.
 
 🟡 &nbsp;Email me at <a href="mailto:chloeloveall@protonmail.com">chloeloveall@protonmail.com</a>
 
