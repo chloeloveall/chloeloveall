@@ -40,6 +40,11 @@
 
 <h2>#100daysofcode</h2>
 
+🟡 &nbsp; Here are all of the projects I've built since starting #100daysofcode on 06/01/2021!
+
+🟡 &nbsp; The repo navigation link provides more info - please check it out!   
+
+🟡 &nbsp; **Please Note**: Some project are multi-day and listed more than once.  
 
 <a href="https://let-it-snow.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://quotable-generator.vercel.app/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://tipped-neon.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 03-FFF952?style=for-the-badge&logo=day" height=30 width=79/>  <a href="https://vertical.vercel.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical.vercel.app/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical.vercel.app/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical.vercel.app/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 08-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09-FFF952?style=for-the-badge&logo=day" height=30 width=79/> 
 
