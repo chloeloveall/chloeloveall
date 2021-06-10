@@ -2,11 +2,11 @@
 
 <h1>Hi! I'm Chloe, a software developer in the Seattle area!</h1>
 
-<img src="img/aboutme-img.JPG" border="2px #ffffff solid" height="250px" align="right">
+<img src="img/aboutme-img.JPG" border="2px #ffffff solid" width="275px" align="right">
 
 🟡 &nbsp;My pronouns are  **she** / **her** or **they** / **them**
 
-🟡 &nbsp;I'm an intern at <a href="https://www.hubb.me/">**Hubb**!</a>
+🟡 &nbsp;I'm a software development intern at <a href="https://www.hubb.me/">**Hubb**!</a>
 
 🟡 &nbsp;I'm a design team volunteer with <a href="https://www.pdxwit.org">**PDX WIT**!</a>
 
@@ -27,7 +27,7 @@
 
 <h2>Github Stats</h2>
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=chloeloveall&theme=highcontrast&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=FFF952&text_color=FFFFFF&icon_color=FFF952&locale="/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeloveall&hide=html&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=000000&title_color=ffffff"/> 
+<img height="150px" width="380px" src="https://github-readme-stats.vercel.app/api?username=chloeloveall&theme=highcontrast&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=FFF952&text_color=FFFFFF&icon_color=FFF952&locale="/> <img height="150px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloeloveall&hide=html&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=000000&title_color=ffffff"/> 
 
 #
 
@@ -40,7 +40,8 @@
 
 <h2>#100daysofcode</h2>
 
-<a href="https://let-it-snow.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://quotable-generator.vercel.app/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://tipped-neon.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 03-FFF952?style=for-the-badge&logo=day" height=30 width=79/> 
+
+<a href="https://let-it-snow.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://quotable-generator.vercel.app/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://tipped-neon.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 03-FFF952?style=for-the-badge&logo=day" height=30 width=79/>  <a href="https://vertical.vercel.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical.vercel.app/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical.vercel.app/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical.vercel.app/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 08-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09-FFF952?style=for-the-badge&logo=day" height=30 width=79/> 
 
 <br />
 <br />
