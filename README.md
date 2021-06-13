@@ -16,8 +16,9 @@
 
 🟡 &nbsp;Email me at <a href="mailto:chloeloveall@protonmail.com">chloeloveall@protonmail.com</a>
 
-🟡 &nbsp;Ask me about plants, tattoos, and baby goats... did I mention plants?
+🟡 &nbsp;Ask me about plants, tattoos, and baby goats... did I mention plants?  
 
+<img src="img/about-img.png">
 
 #
 
