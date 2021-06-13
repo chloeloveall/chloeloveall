@@ -54,7 +54,7 @@
 
 #
 
-<h2>Coding Stats</h2>
+<h2>Coding Challenge Stats</h2>
 
 <table>
   <tr>
