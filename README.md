@@ -56,31 +56,36 @@
 
 <h2>Coding Stats</h2>
 
-<table width="100%">
+<table>
   <tr>
     <td>Site</td>
     <td>Rank</td>
     <td>Points</td>
+    <td>Languages</td>
   </tr>
   <tr>
     <td><a href="https://edabit.com/user/XT23a68TjWwNE7Qko">Edabit</a></td>
     <td>Level 8</td>
     <td>1580 XP</td>
+    <td>JavaScript, Python, C#</td>
   </tr>
   <tr>
     <td><a href="https://cssbattle.dev/player/chloeloveall">CSS Battle</a></td>
     <td>N/A</td>
     <td>2499.12 Total Score</td>
+    <td>HTML & CSS</td>
   </tr>
   <tr>
     <td><a href="https://leetcode.com/chloeloveall/">LeetCode</a></td>
     <td>N/A</td>
     <td>65 Points</td>
+    <td>JavaScript</td>
   </tr>
   <tr>
     <td><a href="https://coderbyte.com/profile/chloeloveall">CoderByte</a></td>
     <td>N/A</td>
     <td>0 Total Points</td>
+    <td>JavaScript</td>
   </tr>
 </table>
 
