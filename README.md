@@ -56,7 +56,7 @@
 
 <h2>Coding Stats</h2>
 
-<table>
+<table width="100%">
   <tr>
     <td>Site</td>
     <td>Rank</td>
