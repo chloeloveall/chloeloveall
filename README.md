@@ -18,7 +18,7 @@
 
 🟡 &nbsp;Ask me about plants, tattoos, and baby goats... did I mention plants?  
 
-<img src="img/about-img.png">
+<img src="img/about-me.png">
 
 #
 
