@@ -46,10 +46,42 @@
 
 🟡 &nbsp; **Please Note**: Some project are multi-day and listed more than once.  
 
-<a href="https://let-it-snow.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://quotable-generator.vercel.app/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://tipped-neon.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 03-FFF952?style=for-the-badge&logo=day" height=30 width=79/>  <a href="https://vertical-timeline.vercel.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 08-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09-FFF952?style=for-the-badge&logo=day" height=30 width=79/> 
+<a href="https://let-it-snow.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://quotable-generator.vercel.app/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://tipped-neon.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 03-FFF952?style=for-the-badge&logo=day" height=30 width=79/>  <a href="https://vertical-timeline.vercel.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 08-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/who-pays"><img alt="Day 10" src="https://img.shields.io/badge/-Day 10-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/who-pays"><img alt="Day 11" src="https://img.shields.io/badge/-Day 11-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/bot-me-seymour"><img alt="Day 12" src="https://img.shields.io/badge/-Day 12-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/bot-me-seymour"><img alt="Day 13" src="https://img.shields.io/badge/-Day 13-FFF952?style=for-the-badge&logo=day" height=30 width=79/> 
 
 <br />
 <br />
 <a href="https://github.com/chloeloveall/100daysofcode/"><img alt="Repo Navigation" src="https://img.shields.io/badge/-100 Repo Navigation-FFF952?style=for-the-badge&logo=day" height=30 width=162/> 
+
+#
+
+<h2>Coding Stats</h2>
+
+<table>
+  <tr>
+    <td>Site</td>
+    <td>Rank</td>
+    <td>Points</td>
+  </tr>
+  <tr>
+    <td><a href="https://edabit.com/user/XT23a68TjWwNE7Qko">Edabit</a></td>
+    <td>Level 8</td>
+    <td>1580 XP</td>
+  </tr>
+  <tr>
+    <td><a href="https://cssbattle.dev/player/chloeloveall">CSS Battle</a></td>
+    <td>N/A</td>
+    <td>2499.12 Total Score</td>
+  </tr>
+  <tr>
+    <td><a href="https://leetcode.com/chloeloveall/">LeetCode</a></td>
+    <td>N/A</td>
+    <td>65 Points</td>
+  </tr>
+  <tr>
+    <td><a href="https://coderbyte.com/profile/chloeloveall">CoderByte</a></td>
+    <td>N/A</td>
+    <td>0 Total Points</td>
+  </tr>
+</table>
 
 #
