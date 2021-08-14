@@ -1,18 +1,18 @@
 <img src="img/github-header.png">
 
-<h1>Hi! I'm Chloe, a software developer in the Seattle area!</h1>
+<h1>Hi! I'm Chloe, a software engineer in the Seattle area!</h1>
 
 🟡 &nbsp;My pronouns are  **she** / **her** or **they** / **them**
 
-🟡 &nbsp;I'm a software development intern at <a href="https://www.hubb.me/">**Hubb**!</a>
+🟡 &nbsp;I'm a software engineer at <a href="https://www.lightspeedsystems.com">**Lightspeed Systems**!</a>
 
 🟡 &nbsp;I'm a design team volunteer with <a href="https://www.pdxwit.org">**PDX WIT**!</a>
 
-🟡 &nbsp;I'm studying **Algorithms & Data Structures**.
+<!-- 🟡 &nbsp;I'm studying **Algorithms & Data Structures**. -->
 
-🟡 &nbsp;I'm currently working on <a href="https://www.github.com/chloeloveall/100daysofcode">**#100daysofcode**!</a>
+<!-- 🟡 &nbsp;I'm currently working on <a href="https://www.github.com/chloeloveall/100daysofcode">**#100daysofcode**!</a> -->
 
-🟡 &nbsp;I'm currently learning **Angular** and **TypeScript**.
+<!-- 🟡 &nbsp;I'm currently learning **Angular** and **TypeScript**. -->
 
 🟡 &nbsp;Email me at <a href="mailto:chloeloveall@protonmail.com">chloeloveall@protonmail.com</a>
 
@@ -40,7 +40,7 @@
 
 #
 
-<h2>#100daysofcode</h2>
+<!-- <h2>#100daysofcode</h2>
 
 🟡 &nbsp; Here are all of the projects I've built since starting #100daysofcode on 06/01/2021!
 
@@ -48,7 +48,7 @@
 
 🟡 &nbsp; **Please Note**: Some project are multi-day and listed more than once.  
 
-<a href="https://let-it-snow.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://quotable-generator.vercel.app/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://tipped-neon.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 03-FFF952?style=for-the-badge&logo=day" height=30 width=79/>  <a href="https://vertical-timeline.vercel.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 08-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/who-pays"><img alt="Day 10" src="https://img.shields.io/badge/-Day 10-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/who-pays"><img alt="Day 11" src="https://img.shields.io/badge/-Day 11-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/bot-me-seymour"><img alt="Day 12" src="https://img.shields.io/badge/-Day 12-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/bot-me-seymour"><img alt="Day 13" src="https://img.shields.io/badge/-Day 13-FFF952?style=for-the-badge&logo=day" height=30 width=79/> 
+<a href="https://let-it-snow.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://quotable-generator.vercel.app/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://tipped-neon.vercel.app/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 03-FFF952?style=for-the-badge&logo=day" height=30 width=79/>  <a href="https://vertical-timeline.vercel.app/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://vertical-timeline.vercel.app/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 08-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://html-css-assessment.vercel.app/"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/who-pays"><img alt="Day 10" src="https://img.shields.io/badge/-Day 10-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/who-pays"><img alt="Day 11" src="https://img.shields.io/badge/-Day 11-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/bot-me-seymour"><img alt="Day 12" src="https://img.shields.io/badge/-Day 12-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://github.com/chloeloveall/bot-me-seymour"><img alt="Day 13" src="https://img.shields.io/badge/-Day 13-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://hatchways-grade-book.vercel.app/"><img alt="Day 14" src="https://img.shields.io/badge/-Day 14-FFF952?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://hatchways-grade-book.vercel.app/"><img alt="Day 14" src="https://img.shields.io/badge/-Day 14-FFF952?style=for-the-badge&logo=day" height=30 width=79/> 
 
 <br />
 <br />
@@ -89,6 +89,12 @@
     <td>0 Total Points</td>
     <td>JavaScript</td>
   </tr>
+  <tr>
+    <td><a href="https://www.hackerrank.com/chloeloveall">HackerRank</a></td>
+    <td>N/A</td>
+    <td>0 Total Points</td>
+    <td>JavaScript</td>
+  </tr>
 </table>
 
-#
+# -->
